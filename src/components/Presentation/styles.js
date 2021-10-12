@@ -36,11 +36,6 @@ export const TextContainer = styled.div`
         font-size: 1.1em;
         font-weight: 500;
     }
-    :nth-last-child{
-        margin-top: 100px;
-        background-color: transparent;
-        color: #FF8C00 ;
-        }
 `
 export const ImageContainer = styled.div`
     position: relative;   

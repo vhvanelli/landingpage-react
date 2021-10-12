@@ -31,24 +31,12 @@ export const TextContainer = styled.div`
         font-size: 1.5em;
         /* width: 50%; */
     }
-    button{
-        color: #FFFFFF;
-        background-color: #FF8C00;
-        /* padding: 10px 20px; */
-        border-radius: 30px;
-        border: none;
-        margin-right: 20px;
-        margin-top: 40px;
-        width: 150px;
-        height: 45px;
-        font-size: 1.1em;
-        font-weight: 500;
+    a{
+        text-decoration: none;
+        align-self: flex-start;
+        font-size: 19px;
+        color: #FF8C00;
     }
-    :nth-last-child{
-        margin-top: 100px;
-        background-color: transparent;
-        color: #FF8C00 ;
-        }
 `
 export const ImageContainer = styled.div`
     position: relative;   
