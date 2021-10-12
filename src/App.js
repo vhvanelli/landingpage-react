@@ -1,8 +1,9 @@
 import React from 'react';
 
-import Navbar from './components/Navbar';
-import Presentation from './components/Presentation';
-import Who from './components/Who';
+import Navbar from './sections/Navbar';
+import Presentation from './sections/Presentation';
+import Who from './sections/Who';
+import Skills from './sections/Skills'
 
 import { Container } from './styles';
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
       <Navbar/>
       <Presentation/>
       <Who/>
+      <Skills/>
       
     </Container>
   );
