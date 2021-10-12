@@ -55,6 +55,7 @@ export const ImageContainer = styled.div`
     min-width: 43%;
     display: flex;
     border-radius: 50% ;
+    overflow: hidden;
 
 `
 export const Image = styled.img`
