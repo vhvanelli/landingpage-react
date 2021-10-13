@@ -5,6 +5,7 @@ export const Container = styled.section`
     align-items: center;
     justify-content: space-between;
     margin-top: 50px;
+    padding: 0 100px;
 `
 export const TextContainer = styled.div`
     position: relative;
@@ -35,6 +36,12 @@ export const TextContainer = styled.div`
         height: 45px;
         font-size: 1.1em;
         font-weight: 500;
+        box-shadow:1px 1px 10px #EF5613;
+        :hover{
+            background-color: transparent;
+            color: #EF5613;
+            border: 2px solid #EF5613;
+        }
     }
 `
 export const ImageContainer = styled.div`

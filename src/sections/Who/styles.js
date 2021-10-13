@@ -5,6 +5,7 @@ export const Container = styled.section`
     align-items: center;
     justify-content: flex-start;
     margin-top: 200px;
+    padding: 0 100px;
 `
 export const TextContainer = styled.div`
     position: relative;

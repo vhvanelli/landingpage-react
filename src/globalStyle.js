@@ -9,7 +9,7 @@ export default createGlobalStyle`
     font-family: 'Roboto', sans-serif;
     color: #1D2123;
   }
-  body{
-    padding: 50px 100px;
+  a, li, button{
+    cursor: pointer;
   }
   `

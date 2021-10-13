@@ -5,6 +5,8 @@ import Presentation from './sections/Presentation';
 import Who from './sections/Who';
 import Skills from './sections/Skills'
 import Portifolio from './sections/Portifolio'
+import Blog from './sections/Blog'
+import Footer from './sections/Footer'
 
 import { Container } from './styles';
 const App = () => {
@@ -15,6 +17,8 @@ const App = () => {
       <Who/>
       <Skills/>
       <Portifolio/>
+      <Blog/>
+      <Footer/>
     </Container>
   );
 }

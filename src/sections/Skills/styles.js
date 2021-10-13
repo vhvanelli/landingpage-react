@@ -4,6 +4,7 @@ export const Container = styled.section`
     justify-content: flex-start;
     margin-top: 200px;
     text-align: center;
+    padding: 0 100px;
 `
 export const Title = styled.h2`
     font-size: 7em;
@@ -48,6 +49,7 @@ export const Skill =  styled.div`
         list-style:none;
         line-height: 2em;
         font-size: 1.3em;
+        cursor: auto;
 
         ::before{
             content: "- ";
