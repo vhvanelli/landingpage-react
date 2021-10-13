@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.js": "/landingpage-react/static/js/main.9c474ba8.chunk.js",
-    "main.js.map": "/landingpage-react/static/js/main.9c474ba8.chunk.js.map",
+    "main.js": "/landingpage-react/static/js/main.0993935b.chunk.js",
+    "main.js.map": "/landingpage-react/static/js/main.0993935b.chunk.js.map",
     "runtime-main.js": "/landingpage-react/static/js/runtime-main.09ff689e.js",
     "runtime-main.js.map": "/landingpage-react/static/js/runtime-main.09ff689e.js.map",
-    "static/js/2.830200a3.chunk.js": "/landingpage-react/static/js/2.830200a3.chunk.js",
-    "static/js/2.830200a3.chunk.js.map": "/landingpage-react/static/js/2.830200a3.chunk.js.map",
+    "static/js/2.c63d72a4.chunk.js": "/landingpage-react/static/js/2.c63d72a4.chunk.js",
+    "static/js/2.c63d72a4.chunk.js.map": "/landingpage-react/static/js/2.c63d72a4.chunk.js.map",
     "index.html": "/landingpage-react/index.html",
-    "static/js/2.830200a3.chunk.js.LICENSE.txt": "/landingpage-react/static/js/2.830200a3.chunk.js.LICENSE.txt",
+    "static/js/2.c63d72a4.chunk.js.LICENSE.txt": "/landingpage-react/static/js/2.c63d72a4.chunk.js.LICENSE.txt",
+    "static/media/avocado.b0c401be.jpg": "/landingpage-react/static/media/avocado.b0c401be.jpg",
+    "static/media/chair.1eded325.jpg": "/landingpage-react/static/media/chair.1eded325.jpg",
+    "static/media/cherry.d47b6ad9.jpg": "/landingpage-react/static/media/cherry.d47b6ad9.jpg",
+    "static/media/headphone.1ab3f49d.jpg": "/landingpage-react/static/media/headphone.1ab3f49d.jpg",
+    "static/media/lamp.04db57eb.jpg": "/landingpage-react/static/media/lamp.04db57eb.jpg",
+    "static/media/oranges.cbf55e55.jpg": "/landingpage-react/static/media/oranges.cbf55e55.jpg",
     "static/media/people.43d8f44a.png": "/landingpage-react/static/media/people.43d8f44a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.09ff689e.js",
-    "static/js/2.830200a3.chunk.js",
-    "static/js/main.9c474ba8.chunk.js"
+    "static/js/2.c63d72a4.chunk.js",
+    "static/js/main.0993935b.chunk.js"
   ]
 }
