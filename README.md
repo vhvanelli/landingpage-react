@@ -1,7 +1,5 @@
 # GitHub Page
 [https://vhvanelli.github.io/landingpage-react/]
-#Vercel Page
-[https://landingpage-react.vercel.app/]
 
 # Getting Started with Create React App
 
