@@ -14,7 +14,7 @@ export const TextContainer = styled.div`
         flex-direction: column;
         align-items: center;
         span{
-            color: #FF8C00;
+            color: #EF5613;
         }
     }
     h2{
@@ -27,7 +27,7 @@ export const TextContainer = styled.div`
         }
     }
     p{
-        margin-left: -50px;
+        margin-left: 0px;
         font-size: 1.5em;
         line-height: 1.5em;
     }
@@ -35,7 +35,8 @@ export const TextContainer = styled.div`
         text-decoration: none;
         align-self: flex-start;
         font-size: 19px;
-        color: #FF8C00;
+        color: #EF5613;
+        margin-top: 12px;
     }
 `
 export const ImageContainer = styled.div`
@@ -52,7 +53,7 @@ export const Image = styled.img`
     z-index: 4;
 `
 export const BgImage = styled.div`
-     background-color: #FF8C00;
+     background-color: #EF5613;
      width: 100%;
      height: 100%;
      position: absolute;

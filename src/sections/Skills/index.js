@@ -1,6 +1,5 @@
 import React from 'react';
 
-import People from '../../assets/imgs/people.png'
 import { Container, Title, Text, SkillsContainer, Skill } from './styles';
 const Who = () => {
     return (

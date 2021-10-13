@@ -7,7 +7,6 @@ export const Container = styled.section`
 `
 export const Title = styled.h2`
     font-size: 7em;
-    /* position: relative; */
     ::before{
         content: "My Skills";
         font-size: 20px;

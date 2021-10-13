@@ -17,7 +17,7 @@ export const Nav = styled.nav`
 
             span{
                 color: #FFFFFF;
-                background-color: #FF8C00;
+                background-color: #EF5613;
                 padding: 10px;
                 border-radius: 30px;
             }
@@ -28,6 +28,6 @@ export const Name = styled.h1`
     display: inline;
     font-size: 2em;
     span{
-        color: #FF8C00;
+        color: #EF5613;
     }
 `

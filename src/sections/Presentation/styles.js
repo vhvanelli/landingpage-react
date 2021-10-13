@@ -13,7 +13,7 @@ export const TextContainer = styled.div`
         flex-direction: row;
         align-items: center;
         span{
-            color: #FF8C00;
+            color: #EF5613;
         }
     }
     h1{
@@ -26,7 +26,7 @@ export const TextContainer = styled.div`
     }
     button{
         color: #FFFFFF;
-        background-color: #FF8C00;
+        background-color: #EF5613;
         border-radius: 30px;
         border: none;
         margin-right: 20px;
